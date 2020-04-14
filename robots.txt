@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://sean.dunwoody.me.localhost/sitemap.xml
