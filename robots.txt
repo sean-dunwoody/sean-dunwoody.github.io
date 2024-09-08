@@ -1,2 +1,1 @@
-User-agent: *
-Sitemap: http://sean.dunwoody.me.localhost/sitemap.xml
+Sitemap: https://sean-dunwoody.github.io/sitemap.xml

@@ -2,20 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://sean.dunwoody.me.localhost/</loc>
-            
+            <loc>https://sean-dunwoody.github.io/</loc>
         </url>
     
         <url>
-            <loc>http://sean.dunwoody.me.localhost/blog/</loc>
-            
+            <loc>https://sean-dunwoody.github.io/blog/</loc>
         </url>
     
         <url>
-            <loc>http://sean.dunwoody.me.localhost/blog/first/</loc>
-            
-                <lastmod>2019-11-27</lastmod>
-            
+            <loc>https://sean-dunwoody.github.io/blog/first/</loc>
+            <lastmod>2019-11-27</lastmod>
         </url>
     
 </urlset>
