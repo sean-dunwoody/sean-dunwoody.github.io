@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://sean.dunwoody.me/blog/firstpost/</loc>
+		<loc>https://sean.dunwoody.me/eleventy-base-blog/blog/firstpost/</loc>
 		<lastmod>2018-05-01</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://sean.dunwoody.me/blog/secondpost/</loc>
+		<loc>https://sean.dunwoody.me/eleventy-base-blog/blog/secondpost/</loc>
 		<lastmod>2018-07-04</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://sean.dunwoody.me/blog/thirdpost/</loc>
+		<loc>https://sean.dunwoody.me/eleventy-base-blog/blog/thirdpost/</loc>
 		<lastmod>2018-08-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://sean.dunwoody.me/blog/fourthpost/</loc>
+		<loc>https://sean.dunwoody.me/eleventy-base-blog/blog/fourthpost/</loc>
 		<lastmod>2018-09-30</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://sean.dunwoody.me/about/</loc>
+		<loc>https://sean.dunwoody.me/eleventy-base-blog/about/</loc>
 		<lastmod>2024-12-30</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://sean.dunwoody.me/blog/</loc>
+		<loc>https://sean.dunwoody.me/eleventy-base-blog/blog/</loc>
 		<lastmod>2024-12-30</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://sean.dunwoody.me/</loc>
+		<loc>https://sean.dunwoody.me/eleventy-base-blog/</loc>
 		<lastmod>2024-12-30</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://sean.dunwoody.me/tags/</loc>
+		<loc>https://sean.dunwoody.me/eleventy-base-blog/tags/</loc>
 		<lastmod>2024-12-30</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://sean.dunwoody.me/feed/feed.xml</loc>
+		<loc>https://sean.dunwoody.me/eleventy-base-blog/feed/feed.xml</loc>
 		<lastmod>2024-12-30</lastmod>
 	</url>
 </urlset>
